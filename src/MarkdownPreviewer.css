@@ -1,0 +1,33 @@
+.card{
+    background-color: #f2b5d4;
+    border-radius: 20px;
+    margin:2rem;
+    padding: 2rem;
+    align-items: center;
+}
+
+#preview, #editor{
+    display : inline-block;
+    width : 70%;
+    height : 100%;
+    margin : 1px;
+    background-color: #7bdff2;
+    border: 3px solid #35899A;
+    border-radius: 10px;
+    color:black;
+}
+#preview{
+    word-wrap: break-word;
+    img{
+      width : 80%;
+    }
+}
+
+h3{
+    padding-top: 4rem;
+}
+
+#byMe{
+    font-family: cursive;
+    color:#35899A;
+}
